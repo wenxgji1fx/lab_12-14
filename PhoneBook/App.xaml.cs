@@ -10,7 +10,7 @@ namespace PhoneBook;
 
 public partial class App : Application
 {
-    public const string DatabaseFileName = "PhoneBookDB_Веселков_2407sa1.db";
+    public const string DatabaseFileName = "PhoneBookDB_Храмов_2407sa1.db";
 
     private readonly IHost _host;
     private IServiceScope? _applicationScope;
