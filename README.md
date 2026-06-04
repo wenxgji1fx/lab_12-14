@@ -58,7 +58,7 @@ dotnet run --project PhoneBook\PhoneBook.csproj
 Команда обратной инженерии, использованная для генерации модели:
 
 ```powershell
-dotnet tool run dotnet-ef dbcontext scaffold "Data Source=PhoneBookDB_Веселков_2407sa1.db" Microsoft.EntityFrameworkCore.Sqlite --project PhoneBook\PhoneBook.csproj --startup-project PhoneBook\PhoneBook.csproj --context PhoneBookDbContext --context-dir Data --output-dir Models --no-onconfiguring --force
+dotnet tool run dotnet-ef dbcontext scaffold "Data Source=PhoneBookDB_Храмов_2407sa1.db" Microsoft.EntityFrameworkCore.Sqlite --project PhoneBook\PhoneBook.csproj --startup-project PhoneBook\PhoneBook.csproj --context PhoneBookDbContext --context-dir Data --output-dir Models --no-onconfiguring --force
 ```
 
 ## Структура
