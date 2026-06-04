@@ -67,7 +67,7 @@ dotnet tool run dotnet-ef dbcontext scaffold "Data Source=PhoneBookDB_Храмо
 - `LAB13.md` - отдельный отчёт по лабораторной 13.
 - `LAB14.sln` - отдельный файл решения Visual Studio для лабораторной 14.
 - `LAB14.md` - отдельный отчёт по лабораторной 14.
-- `PhoneBook/PhoneBookDB_Веселков_2407sa1.db` - готовая база данных SQLite.
+- `PhoneBook/PhoneBookDB_Храмов_2407sa1.db` - готовая база данных SQLite.
 - `PhoneBook/Models/Contact.cs` - сущность, полученная через scaffolding.
 - `PhoneBook/Data/PhoneBookDbContext.cs` - контекст данных, полученный через scaffolding.
 - `PhoneBook/ViewModels/ContactsListViewModel.cs` - чтение, фильтрация и удаление контактов.
