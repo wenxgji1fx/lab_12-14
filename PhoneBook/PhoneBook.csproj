@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="PhoneBookDB_Веселков_2407sa1.db">
+    <None Update="PhoneBookDB_Храмов_2407sa1.db">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
